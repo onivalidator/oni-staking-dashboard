@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@cosmos-kit/keplr": "^2.12.2",
+    "@cosmos-kit/react": "^2.18.0",
+    "chain-registry": "^1.63.78"
+  }
+}
